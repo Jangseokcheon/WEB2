@@ -6,3 +6,7 @@
 * 학생들의 정보를 md 파일을 통해 저장하여 클릭으로 편하게 학생들의 과제를 볼 수 있습니다.
 
 ![dfgdf](https://user-images.githubusercontent.com/86651809/174941015-4d9c566d-38cf-4690-b456-9d35d58f9e99.PNG)
+
+* 학생들의 깃 허브 자료를 간략하게 볼 수 있습니다.
+
+![ret](https://user-images.githubusercontent.com/86651809/174941141-8ac2df70-f65d-455e-b87c-e72dd995372e.PNG)
