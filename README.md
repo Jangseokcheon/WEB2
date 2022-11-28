@@ -21,3 +21,6 @@ PC, Windows10,
 Host에서 보낸 데이터를 받아 모니터링하고 사용자의 제어명령을 Host로 전송하는 역할,
 하드웨어와 무관한 상위 S/W 알고리즘 실행(영상처리, 객체검출, 내비게이션 등)
  
+![image](https://user-images.githubusercontent.com/86651809/204289566-3c7d7105-4f50-4fbb-ab7b-14f6f1823532.png)
+
+
